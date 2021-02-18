@@ -1,0 +1,21 @@
+{
+  "name": "CarSelection",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/svg-sprite": "^0.5.2",
+    "core-js": "^3.8.3",
+    "normalize.css": "^8.0.1",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "sass": "^1.32.7",
+    "sass-loader": "^10.1.1"
+  }
+}
