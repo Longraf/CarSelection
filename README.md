@@ -12,10 +12,10 @@
 ### Уровень 1
 
 1. Сверстать страницу выбора транспортного средства.
-![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-tast/test-task-1.png?raw=true)
+![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-task/test-task-1.png?raw=true)
 
 2. Сверстать детальную страницу транспортного средства.
-![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-tast/test-task-2.png?raw=true)
+![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-task/test-task-2.png?raw=true)
 
 3. Реализовать мобильную версию
 
@@ -41,7 +41,7 @@
 ### Уровень 3
 
 1. Реализовать форму добавления нового транспортного средства.
-![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-tast/test-task-3.png?raw=true)
+![alt text](https://github.com/Longraf/CarSelection/blob/master/assets/images/test-task/test-task-3.png?raw=true)
 
 2. Реализовать переключение между светлой и темной темами.
 
