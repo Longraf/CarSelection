@@ -9,8 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
     "@nuxtjs/svg-sprite": "^0.5.2",
     "core-js": "^3.8.3",
+    "node-sass": "^5.0.0",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.14.12"
   },

@@ -1,0 +1,45 @@
+html{
+  font-family: 'CodecPro', sans-serif;
+  font-size: 62.5%;
+  height: 100%;
+}
+body{
+  background-color: $white;
+
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+}
+
+.main-container{
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 5.6rem;
+  grid-gap: 4rem;
+}
+
+@font-face {
+  font-family: "CodecPro";
+  font-style: normal;
+  font-weight: 300;
+  /* Браузер сначала попробует найти шрифт локально */
+  src: local("CodecPro"),
+    /* Если не получилось, загрузит woff2 */
+  url("./assets/fonts/CodecPro/CodecPro-Thin.woff2") format("woff2"),
+    /* Если браузер не поддерживает woff2, загрузит woff */
+  url("./assets/fonts/CodecPro/CodecPro-Thin.woff") format("woff");
+}
+@font-face {
+  font-family: "CodecPro";
+  font-style: normal;
+  font-weight: 700;
+  /* Браузер сначала попробует найти шрифт локально */
+  src: local("CodecPro"),
+    /* Если не получилось, загрузит woff2 */
+  url("./assets/fonts/CodecPro/CodecPro-Bold.woff2") format("woff2"),
+    /* Если браузер не поддерживает woff2, загрузит woff */
+  url("./assets/fonts/CodecPro/CodecPro-Bold.woff") format("woff");
+}
+
